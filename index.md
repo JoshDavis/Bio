@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Josh Davis
 
-You can use the [editor on GitHub](https://github.com/JoshDavis/Web-Files/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Josh Davis is a web designer and front-end developer residing in Hamilton, Ontario, Canada.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can visit my website here: [http://heyjosh.ca](http://heyjosh.ca).
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Software and coding skills:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+HTML5, CSS, JavaScript (jQuery), WordPress, PHP, GitHub (Version Control), Responsive and mobile design, accessibility and all things related to the open web.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact Me
 
-### Jekyll Themes
+Feel free to contact me at [info@heyjosh.ca](mailto:info@heyjosh.ca).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoshDavis/Web-Files/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
